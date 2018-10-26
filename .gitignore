@@ -1,0 +1,7 @@
+*.pyc   #permet a github de reconnaitre que le fichier supportera le langage python
+*~
+__pycache__
+mesprojets
+db.sqlite3
+/static
+.DS_Store
